@@ -1,0 +1,23 @@
+Sr.No	Name of Practical
+-----------------------------------------------------------------------------------
+1  	Demonstrate singly and doubly linked list.  	
+2  	STACK implementation using Array with PUSH, POP operations
+3  	Reverse a string using stack
+4  	Check for balanced parentheses by using Stacks
+5  	Implement Stack using Linked List
+6  	Demonstration of Linear Queue. 
+7  	Demonstration of Circular Queue. 
+8  	Demonstration of Priority Queue
+9  	Reverse stack using queue
+10  	based on binary search tree implementation with its operations
+11  	implementation and graph traversals
+12  	Implementation of Hashing
+13  	Implementation of Brute Force technique Linear Search
+14  	Implementation of Brute Force technique Rain Terraces. 	 
+15  	Implementation of Brute Force technique Travelling Salesman Problem
+16 	Implementation of Greedy Algorithm - Prim’s
+17 	Implementation of Greedy Kruskal’s algorithm
+18 	Implementation of Divide and Conquer Technique - Binary Search. 	
+19 	Implementation of Divide and Conquer Technique - Tower of Hanoi
+20 	Implementation of Dynamic Programming - LCS, Regular Expression Matching
+21 	Practical based on backtracking - N Queen’s problems 	
